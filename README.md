@@ -1,7 +1,3 @@
-# Electronic-Tag
-An IoT-based Electronic Shelf Label (ESL) automation system with ESP32, e-paper display, and central management software.⁠
-
-
 # 🏷️ Electronic Shelf Label (ESL) Automation System
 
 An IoT-based Electronic Shelf Label management system designed to dynamically synchronize retail product prices, stock status, and details across e-paper displays via ESP32 microcontrollers.
@@ -61,5 +57,4 @@ This project provides a cost-effective, energy-efficient, and centralized electr
 
 ## 👥 Contributors
 * **Esat Mert Sayıcı** - [@Mert712](https://github.com/Mert712)
-* **Umut Beytullah Yoncalık** - [Umutynclk]
-(https://github.com/Umutynclk)
+* **Umut Beytullah Yoncalık** - [@Umutynclk](https://github.com/Umutynclk)
